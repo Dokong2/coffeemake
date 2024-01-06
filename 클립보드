@@ -8,3 +8,4 @@ with open([파일], 'rb') as f:
 (random.choice(리스트이름))
 -범위 안에 랜덤 숫자 생성하기 [import rendum]
 변수 이름 = (random.randint(1, 2))
+#아 실수로 푸시 않함 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
