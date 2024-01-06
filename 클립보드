@@ -1,0 +1,10 @@
+-만들기
+with open("DON.pickle", 'wb') as f:
+    pickle.dump([DON], f)
+-불러오기
+with open([파일], 'rb') as f:
+    var = pickle.load(f)
+-리스트에서 랜덤한 값 가져오기 [import rendum]
+(random.choice(리스트이름))
+-범위 안에 랜덤 숫자 생성하기 [import rendum]
+변수 이름 = (random.randint(1, 2))
